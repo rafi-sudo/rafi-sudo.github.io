@@ -1,0 +1,12 @@
+Draft Promosi Realistis (Rp50.000/bulan)
+Paket Streaming Audio – Entry Level
+Harga: Rp50.000/bulan
+Server: ARMv8, 4-core, 1.8 GB RAM, 36 GB storage
+Bandwidth: Dibagi dari server utama, cukup untuk audio 64–128 kbps
+Mount point Icecast: 1 channel per client
+Capacity slot mount point : 4 channel
+Listener Maks: ±20–70 client (64 kbps) atau ±20–30 client (128 kbps)
+Durasi Streaming: 24 jam nonstop (selama kondisi normal)
+Keterbatasan:
+Server tidak SLA 99%, bisa downtime saat hujan/petir
+Hanya cocok untuk audio, tidak untuk video HD
